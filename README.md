@@ -51,9 +51,13 @@ This project analyzes how each restaurant brand builds its identity, engages cus
 ## Group Members
 
 Noor ul Ain
+
 Hamnah Fatima Khan
+
 Muhammad Salman Saleem
+
 Muhammad Musab
+
 Muhammad Ahsan Shehzad
 
 ## License
